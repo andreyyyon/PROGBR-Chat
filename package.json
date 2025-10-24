@@ -1,0 +1,24 @@
+{
+  "name": "progbr-chat",
+  "version": "1.0.0",
+  "description": "Modelo de chat desenvolvido com Socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreyyyon/PROGBR-Chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreyyyon/PROGBR-Chat/issues"
+  },
+  "homepage": "https://github.com/andreyyyon/PROGBR-Chat#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
